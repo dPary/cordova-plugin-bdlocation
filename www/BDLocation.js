@@ -54,4 +54,4 @@ if (!window.plugins.BDLocation) {
     window.plugins.BDLocation = BDLocation;
 }
 
-exports = BDLocation;
+module.exports = BDLocation;
