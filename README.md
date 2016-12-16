@@ -1,4 +1,4 @@
-#forked from https://github.com/wilhantian/cordova-plugin-bdlocation
+forked from https://github.com/wilhantian/cordova-plugin-bdlocation
 
 #百度定位插件
 
